@@ -1,5 +1,5 @@
-import './App.css';
-import {Navbar} from './Navbar';
+import "./App.css";
+import { Navbar } from "./Navbar";
 
 function App() {
   return (
@@ -9,7 +9,10 @@ function App() {
       <p>this is a new commit</p>
       <div>rakesh changes</div>
       <p>ankit changes</p>
-        <p>ankit changess 2</p>
+      <p>ankit changess 2</p>
+      <p>ankit changess 2</p>
+      <p>ankit changess 2</p>
+      <p>ankit changess 2</p>
     </div>
   );
 }
