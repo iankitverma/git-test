@@ -2,8 +2,6 @@
 import React, { useState } from 'react'
 import { GiHamburgerMenu } from 'react-icons/gi';
 
-
-// this is test comment
 function Navbar() {
     const [visible, setvisible] = useState(false)
     return (
